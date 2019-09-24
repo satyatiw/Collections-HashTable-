@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+//Add more comments. describe every code through comments.
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
